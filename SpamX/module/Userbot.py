@@ -15,9 +15,9 @@ from pyrogram.types import Message
 from pyrogram import __version__ as pyro_vr             
                 
 
-pongg = PING_MSG if PING_MSG else "$ᴛᴀʀ X sᴘᴀᴍ"
-STAR_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/252fc4a5c64895b0e539c.jpg"
-Alivemsg = ALIVE_MSG if ALIVE_MSG else "𝗦𝘁𝗮𝗿 𝗫 𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲."
+pongg = PING_MSG if PING_MSG else "ᴠɪᴋᴋᴜ X sᴘᴀᴍ"
+STAR_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/51b76b943b25deadb7e8b.jpg"
+Alivemsg = ALIVE_MSG if ALIVE_MSG else "Don't Leave Me Alone"
 
 
 star = f"⁂ {Alivemsg} ⁂\n\n"
@@ -25,9 +25,9 @@ star += f"━───────╯•╰───────━\n"
 star += f"➠ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.4`\n"
 star += f"➠ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ** : `{pyro_vr}`\n"
 star += f"➠ **SᴘᴀᴍX ᴠᴇʀsɪᴏɴ**  : `{__version__}`\n"
-star += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/Star_X_Network)\n"
+star += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/Y_K_D_1)\n"
 star += f"━───────╮•╭───────━\n\n"
-star += f"➠ **Source Code:** [•Repo•](https://github.com/its-star-boi/SpamX)"
+star += f"➠ **Source Code:** [•Repo•](https://t.me/ishqsufiiyana)"
 
 
 async def get_time(seconds: int) -> str:
