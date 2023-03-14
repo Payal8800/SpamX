@@ -70,7 +70,7 @@ syntax:
 {hl}hang (counts)
 
 
-**© @Star_X_Network**
+**© @ishqsufiiyana**
 """
 
 
@@ -89,7 +89,7 @@ command:
 command:
   {hl}dmraid (count) (username or user id)
 
-**© @Star_X_Network**
+**© @ishqsufiiyana**
 """
 
 
@@ -101,7 +101,7 @@ Syntax:
   {hl}join private/public Chat invite link or username
 
 
-**© @Star_X_Network**
+**© @ishqsufiiyana**
 """
 
 leave_help = f"""
@@ -112,7 +112,7 @@ syntax:
 i) {hl}leave group Username or chat user id
 ii) {hl}leave
 
-**© @Star_X_Network**
+**© @Sishqsufiiyana**
 """
 
 userbot_help = f"""
@@ -124,7 +124,7 @@ userbot_help = f"""
 
 - {hl}restart : To Restart Your Spam Bots
 
-**© @Star_X_Network**
+**© @ishqsufiiyana**
 """
 
 
@@ -139,7 +139,7 @@ commands:
 2) {hl}setbio (coustom Bio)
 3) {hl}setpic (reply to media)
 
-**© @Star_X_Network **
+**© @ishqsufiiyana **
 """
 
 help_menu = f"""
@@ -157,5 +157,5 @@ help_menu = f"""
 **Type** {hl}help (category) **to get all syntax in that category and its usage**
 **Example**: `{hl}help spam`
 
-**© @Star_X_Network**
+**© @ishqsufiiyana**
 """
